@@ -76,6 +76,8 @@ final class RXTXPort extends SerialPort {
             Logger.getLogger(RXTXPort.class.getName());
     private final DriverContext context;
 
+
+
     /**
      * DSR flag
      */
